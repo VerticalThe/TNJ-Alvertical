@@ -1,0 +1,12 @@
+print ("robot siap beroprasi") #menampilkan text
+print ("robot maju") #menampilkan text
+kecepatan = "10" #nilai
+print ("robot maju = " + kecepatan) #menampilkan text dan menambah nilai variable
+
+arah = "kiri"
+kecepatan = 5
+durasi = str(10)
+
+print ("robot berjalan ke " + arah)
+print ("kecepatan = " + str(kecepatan))
+print ("durasi = " + str(durasi))
